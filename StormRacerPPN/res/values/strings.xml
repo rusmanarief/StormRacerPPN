@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">StormRacerPPN</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_dashboard">Storm Racer Permata Pintar Negara (PPN)</string>
+    <string name="title_activity_teammember">Team Member</string>
+    <string name="title_activity_cardesign">Car Design</string>
+    <string name="title_activity_sponsors">Sponsors &amp; Collaboration</string>
+    <string name="title_activity_resultsstats">Results &amp; Statistics</string>
+    <string name="title_activity_photos">Photos</string>
+    <string name="title_activity_videos">Videos</string>
+
+</resources>
